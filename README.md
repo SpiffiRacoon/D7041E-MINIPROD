@@ -17,3 +17,4 @@ This will install all the packages we use in the project.
 
 ## Youtube link to presentation: 
 ## Link to data: 
+https://keras.io/api/datasets/mnist/
