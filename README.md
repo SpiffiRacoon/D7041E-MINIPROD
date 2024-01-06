@@ -16,5 +16,6 @@ pip install -r requirements.txt
 This will install all the packages we use in the project.
 
 ## Youtube link to presentation: 
+https://youtu.be/UC-BiCg8PDc
 ## Link to data: 
 https://keras.io/api/datasets/mnist/
