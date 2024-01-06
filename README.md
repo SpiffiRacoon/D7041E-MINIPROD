@@ -2,8 +2,9 @@
 Repo for the mini-project in the D7041E course at LTU
 
 ## Group 12
-  filren-0@student.ltu.se
-  osauli-0@student.ltu.se
+ Filip Renberg; filren-0@student.ltu.se
+ 
+ Oskar Lundqvist; osauli-0@student.ltu.se
 
 ## Installing pip packages
 The project uses Python so you will need a pretty up-to-date python3 version and pip installed.
